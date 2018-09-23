@@ -4,5 +4,6 @@
 # .editorconfig. 
 # Windows Explorer will automatically rename it to .editorconfig
 #
+[*.py]
 indent_style = tab
 indent_size = 4
