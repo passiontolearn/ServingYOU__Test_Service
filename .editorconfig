@@ -1,0 +1,8 @@
+# Thanks to:  https://stackoverflow.com/a/33831598/3404746
+# 
+# NOTE: to create an .editorconfig file within Windows Explorer, you need to create a file named:
+# .editorconfig. 
+# Windows Explorer will automatically rename it to .editorconfig
+#
+indent_style = tab
+indent_size = 4
